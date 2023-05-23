@@ -1,1 +1,3 @@
 Realizando ejercicio 1 de la guia clase 28
+
+Ahora lo modifico y guardo para ver si aprendi a realizar el update
